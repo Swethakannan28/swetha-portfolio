@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="E-Commerce Backend placeholder preview">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15131d"/><stop offset="1" stop-color="#0d0c13"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8a5c"/><stop offset="1" stop-color="#f6a823"/></linearGradient>
+<radialGradient id="glow" cx=".85" cy=".1" r=".8"><stop offset="0" stop-color="#ff8a5c" stop-opacity=".55"/><stop offset="1" stop-color="#ff8a5c" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#bg)"/><rect width="1600" height="1000" fill="url(#glow)"/>
+<circle cx="120" cy="120" r="9" fill="#ff6a55"/><circle cx="154" cy="120" r="9" fill="#f6a823"/><circle cx="188" cy="120" r="9" fill="rgba(241,234,220,.4)"/>
+<text x="240" y="130" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="rgba(241,234,220,.7)">E-Commerce Backend — API routes</text>
+<rect x="140" y="230" width="1320" height="540" rx="22" fill="#0a0910" stroke="rgba(241,234,220,.25)"/>
+<rect x="190" y="270" width="96" height="44" rx="10" fill="#ff8a5c" opacity=".9"/>
+<text x="238" y="300" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#0d0c13">GET</text>
+<text x="316" y="300" font-family="monospace" font-size="26" fill="rgba(241,234,220,.85)">/api/products</text>
+<text x="1400" y="300" text-anchor="end" font-family="monospace" font-size="22" fill="rgba(241,234,220,.45)">200 OK</text>
+<rect x="190" y="354" width="96" height="44" rx="10" fill="#f6a823" opacity=".9"/>
+<text x="238" y="384" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#0d0c13">POST</text>
+<text x="316" y="384" font-family="monospace" font-size="26" fill="rgba(241,234,220,.85)">/api/auth/login</text>
+<text x="1400" y="384" text-anchor="end" font-family="monospace" font-size="22" fill="rgba(241,234,220,.45)">201</text>
+<rect x="190" y="438" width="96" height="44" rx="10" fill="#ff8a5c" opacity=".9"/>
+<text x="238" y="468" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#0d0c13">GET</text>
+<text x="316" y="468" font-family="monospace" font-size="26" fill="rgba(241,234,220,.85)">/api/orders</text>
+<text x="1400" y="468" text-anchor="end" font-family="monospace" font-size="22" fill="rgba(241,234,220,.45)">200 OK</text>
+<rect x="190" y="522" width="96" height="44" rx="10" fill="#f6a823" opacity=".9"/>
+<text x="238" y="552" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#0d0c13">PUT</text>
+<text x="316" y="552" font-family="monospace" font-size="26" fill="rgba(241,234,220,.85)">/api/cart/:id</text>
+<text x="1400" y="552" text-anchor="end" font-family="monospace" font-size="22" fill="rgba(241,234,220,.45)">200 OK</text>
+<rect x="190" y="606" width="96" height="44" rx="10" fill="#ff8a5c" opacity=".9"/>
+<text x="238" y="636" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700" fill="#0d0c13">DELETE</text>
+<text x="316" y="636" font-family="monospace" font-size="26" fill="rgba(241,234,220,.85)">/api/products/:id</text>
+<text x="1400" y="636" text-anchor="end" font-family="monospace" font-size="22" fill="rgba(241,234,220,.45)">204</text>
+<rect x="120" y="860" width="640" height="64" rx="32" fill="rgba(13,12,19,.85)" stroke="#ff8a5c" stroke-dasharray="8 8"/>
+<text x="152" y="901" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#ff8a5c">PLACEHOLDER IMAGE — replace with a real screenshot</text>
+</svg>
